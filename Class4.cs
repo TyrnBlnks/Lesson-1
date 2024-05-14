@@ -6,7 +6,7 @@ namespace Lesson_1
 {
     class Class4
     {
-        static void Main()
+        static void Fifth()
         {
             List<int> numbers = new List<int>();
             string userInput;
